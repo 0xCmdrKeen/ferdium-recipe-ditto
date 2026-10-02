@@ -1,0 +1,15 @@
+{
+  "id": "ditto",
+  "name": "Ditto",
+  "version": "1.0.0",
+  "license": "MIT",
+  "aliases": [
+    "nostr"
+  ],
+  "config": {
+    "serviceURL": "https://ditto.pub/",
+    "hasDirectMessages": false,
+    "hasIndirectMessages": true
+  },
+  "defaultIcon": "https://ditto.pub/logo.svg"
+}
